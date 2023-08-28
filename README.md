@@ -6,9 +6,8 @@ Welcome to the Gameplay Ability System (GAS) Demo repository! This demo showcase
 2. Features
 3. Getting Started
 4. Usage
-5. Demo Abilities
-6. Feedback and Contributions
-7. License
+5. Creating New Abilities
+6. Demo Abilities
 
 ### Introduction
 The Gameplay Ability System (GAS) is a comprehensive framework integrated into the Unreal Engine, providing developers with a streamlined way to create complex gameplay mechanics and abilities. This demo showcases a variety of these mechanics in action, highlighting how GAS can be used to design captivating and dynamic gameplay experiences.
@@ -32,15 +31,23 @@ Use the keyboard and mouse to control your character.
 Execute abilities by pressing designated keys.
 Observe how different abilities interact with each other and affect your character's attributes.
 
+### Creating New Abilities
+You can create new abilities in Blueprints without any coding and attach them to the character.
+![6](https://github.com/AhmedWaleed26/GameplayDemo/assets/83072621/a263b5ff-6c65-46fe-b1b3-7bd30033fa6e)
+
+
 ### Demo Abilities
 This demo features the following abilities:
 
-Teleport: Quickly dash a short distance to evade enemies or close the gap.
-Attack: A light melee attack
-Heavy Attack: A heacy charge attack to close small distance and attack
-Combos: Combos involving multiple attacks
-Defend: Block incoming damage
-AI: An AI Controller that uses same GAS Component to fight the player
-Fight Stance: Change stance when target lock onto enemy
+- Teleport: Quickly dash a short distance to evade enemies or close the gap.
+- Attack: A light melee attack
+- Heavy Attack: A heacy charge attack to close small distance and attack
+- Combos: Combos involving multiple attacks
+- Defend: Block incoming damage
+- AI: An AI Controller that uses same GAS Component to fight the player
+- Fight Stance: Change stance when target lock onto enemy
 
-Enjoy exploring the potential of the Gameplay Ability System in your own projects! If you have any questions, feel free to reach out.
+![5](https://github.com/AhmedWaleed26/GameplayDemo/assets/83072621/79ec56b5-6d4e-4ac8-86bb-93af4e6e0a36)
+![4](https://github.com/AhmedWaleed26/GameplayDemo/assets/83072621/af942774-a96f-44ef-8949-e3c6ddb33497)
+![3](https://github.com/AhmedWaleed26/GameplayDemo/assets/83072621/a51c52e5-aa38-43b0-b278-5f287ea22ce4)
+![2](https://github.com/AhmedWaleed26/GameplayDemo/assets/83072621/ad4f4f03-a825-4b9f-912b-887b9b9e1a7e)
